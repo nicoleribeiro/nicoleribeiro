@@ -19,7 +19,8 @@
 </div>
   
 ##
-  
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=nicoleribeiro&label=Profile%20views&color=0e75b6&style=flat" alt="cliomaas" /></p>  
 <div>
   <a href = "mailto:contatonicoleribeiro@outlook.com"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicoleribeironunes/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
