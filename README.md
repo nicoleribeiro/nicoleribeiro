@@ -26,5 +26,5 @@
   <a href="https://instagram.com/nicoleribeiron" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href=”https://api.whatsapp.com/send?phone=5511949255951&text=Oi%20,vi%20seu%20perfil%20no%20GitHub.” target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
-<!--  
-![Snake Animation](https://github.com/nicoleribeiro/nicoleribeiro//blob/output/github-contribuiton-grid-snake.svg) -->
+
+![Snake Animation](https://github.com/nicoleribeiro/nicoleribeiro//blob/output/github-contribuiton-grid-snake.svg)
