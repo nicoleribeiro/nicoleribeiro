@@ -21,10 +21,10 @@
 ##
   
 <div>
-  <a href="malito:contatonicoleribeiro@outlook.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="malito:contatonicoleribeiro@outlook.com"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/nicoleribeironunes/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/nicoleribeiron" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href=”https://api.whatsapp.com/send?phone=5511949255951&text=Oi%20,vi%20seu%20perfil%20no%20GitHub.” target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href=”https://api.whatsapp.com/send?phone=5511949255951&text=Oi%20,vi%20seu%20perfil%20no%20GitHub.”><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   
 ![Snake animation](https://github.com/nicoleribeiro/nicoleribeiro/blob/output/github-contribution-grid-snake.svg)
   
