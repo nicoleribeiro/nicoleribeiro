@@ -1,7 +1,7 @@
 <!-- Apresentação -->
 ### Hi, I'm Nicole, but you can call me Nika 👋
 
-<p>I'm 20 years old, I live in São Paulo - SP and I'm a student of Internet Systems at FIAP.</p>
+<p>I'm 20 years old, I live in São Paulo, SP and I'm a student of Internet Systems at FIAP.</p>
 <p>I’m currently working on Intern in Analysis and Development, programming in Full-Stack and I always looking for new knowledge about technology, more specificaly in the Front-End and Database.</p>
 
 <!-- Stats e Linguagens mais usadas -->
