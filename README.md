@@ -14,7 +14,6 @@
 
 <!-- Outras linguagens e ferramentas -->
 ## Others Languages and Tools
-<p>All skills on LinkedIn.</p>
 <div>
   <img align="center" alt="HTML" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -32,6 +31,7 @@
   <img align="center" alt="Premiere Pro" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
   <img align="center" alt="Figma" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
+<p>All skills on LinkedIn.</p>
 
 <!-- Visualizadores do perfil-->
 <br> <p align="left"><img src="https://komarev.com/ghpvc/?username=nicoleribeiro&label=Profile%20views&color=0e75b6&style=flat" alt="cliomaas" /></p> 
