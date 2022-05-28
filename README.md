@@ -1,9 +1,6 @@
 <!-- Apresentação -->
 ### Hi, I'm Nicole, but you can call me Nika 👋
 
-<p>I'm 20 years old, I live in São Paulo, SP and I'm a student of Internet Systems at FIAP.</p>
-<p>I’m currently working on Intern in Analysis and Development, programming in Full-Stack and I always looking for new knowledge about technology, more specificaly in the Front-End and Database.</p>
-
 <!-- Stats e Linguagens mais usadas -->
 <div>
   <a href="https://github.com/nicoleribeiro">
@@ -13,24 +10,7 @@
 </div>
 
 <!-- Outras linguagens e ferramentas -->
-## Others Languages and Tools
-<div>
-  <img align="center" alt="HTML" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="SASS" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="Python" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Javascript" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="C#" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Typescript" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Angular" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="PHP" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Java" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="React" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Nodejs" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" alt="Photoshop" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  <img align="center" alt="Premiere Pro" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
-  <img align="center" alt="Figma" height="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-</div>
+## Languages and Tools
 <p>All skills on LinkedIn.</p>
 
 <!-- Visualizadores do perfil-->
