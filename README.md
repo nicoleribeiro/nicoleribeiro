@@ -1,5 +1,8 @@
 <!-- Apresentação -->
 ### Hi, I'm Nicole, but you can call me Nika 👋
+<ul>
+  <li>Currently improving what I already know, learning Angular, .NET, TypeScript and making some projects in React and React Native</li>
+</ul>
 
 <!-- Stats e Linguagens mais usadas -->
 <div>
