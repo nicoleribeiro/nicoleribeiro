@@ -7,7 +7,7 @@
 <!-- Stats e Linguagens mais usadas -->
 <div>
   <a href="https://github.com/nicoleribeiro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicoleribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicoleribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoleribeiro&layout=compact&langs_count=16&theme=dark"/>
   </a>
 </div>
